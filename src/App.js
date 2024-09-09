@@ -14,7 +14,6 @@ Coded by www.creative-tim.com
 */
 
 import { useEffect } from "react";
-
 // react-router components
 import { Routes, Route, Navigate, useLocation } from "react-router-dom";
 
